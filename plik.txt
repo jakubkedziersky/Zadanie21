@@ -1,4 +1,4 @@
 main: 09:23 05.01.2024
 Modyfikacja pliku: 09:31 05.01.2024
 Dodanie trzeciel lini: 09:35 05.01.2024
-Dodanie czwartej lini:09:43 05.01.2024
+Dodanie poprawionej czwartej lini:09:43 05.01.2024
